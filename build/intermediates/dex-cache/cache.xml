@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jens/Downloads/RetrofitExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/jens/Downloads/RetrofitExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_c047c768ad5e8b71e034935f043b4fdfacb18372.jar" />
+    </item>
+    <item
+        jar="/home/jens/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/jens/Downloads/RetrofitExample/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_d3bec0e32f8d588bd4b6c842b22f9921d65d21a0.jar" />
+    </item>
+    <item
+        jar="/home/jens/workspaceNeu/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/jens/Downloads/RetrofitExample/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_5b513c25e830763d8f4b7bdb18a2616a15f6f557.jar" />
+    </item>
+    <item
+        jar="/home/jens/Downloads/RetrofitExample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/jens/Downloads/RetrofitExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_8c6aee41c74823c77c45c91cc61b56043ed27df7.jar" />
+    </item>
+    <item
+        jar="/home/jens/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/home/jens/Downloads/RetrofitExample/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_e755433add86a91ab7b7430dbc3d3dbb8d422401.jar" />
+    </item>
+    <item
+        jar="/home/jens/Downloads/RetrofitExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/jens/Downloads/RetrofitExample/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_cd524bb0bdf85deb0f81cd95cf655f4d52fa56dd.jar" />
+    </item>
+    <item
+        jar="/home/jens/Downloads/RetrofitExample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/jens/Downloads/RetrofitExample/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_16983500b131dc443d7a4ffd4a5c570977e649dd.jar" />
+    </item>
+    <item
+        jar="/home/jens/Downloads/RetrofitExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/jens/Downloads/RetrofitExample/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_f2dc8422ede531cf8bf1377b14214318326343d5.jar" />
+    </item>
+    <item
+        jar="/home/jens/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/home/jens/Downloads/RetrofitExample/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_122798e257878a201332265b450dd38f4f675ae8.jar" />
+    </item>
+    <item
+        jar="/home/jens/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/home/jens/Downloads/RetrofitExample/app/build/intermediates/pre-dexed/debug/gson-2.6.2_77f659526b7e7cc20bedffe43c2ef7bc1d20c107.jar" />
+    </item>
+    <item
+        jar="/home/jens/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/home/jens/Downloads/RetrofitExample/app/build/intermediates/pre-dexed/debug/okio-1.8.0_4941434128cd3d0db432c2832e87b2a4a53c0ed5.jar" />
+    </item>
+
+</items>
